@@ -112,7 +112,7 @@ while True:
         break
      
 
-#merge audio and video
+#merge audio and video,the vidoe and audio time axit is different ,so it not usefull.
 # print("video audio merge!!!!!")
 # audioclip = AudioFileClip(WAVE_OUTPUT_FILENAME)
 # videoclip = VideoFileClip(VIDEO_OUTPUT_FILENAME)
