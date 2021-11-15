@@ -13,7 +13,7 @@ numpy==1.16.2+mkl
 opencv-python==3.4.6
 PIL==2.0+dummy
 Pillow==6.0.0
-pip==19.1
+pip==21.1
 proglog==0.1.9
 PyAudio==0.2.11
 PyAutoGUI==0.9.42
