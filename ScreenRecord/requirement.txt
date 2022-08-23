@@ -9,7 +9,7 @@ isort==4.3.17
 lazy-object-proxy==1.3.1
 mccabe==0.6.1
 moviepy==1.0.0
-numpy==1.16.2+mkl
+numpy==1.22.0
 opencv-python==3.4.6
 PIL==2.0+dummy
 Pillow==6.0.0
